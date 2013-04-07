@@ -10,11 +10,11 @@ Google Groups altında etkin olarak kullanmakta olduğumuz, katılımın herkese
 
 Gerçekleştirmiş olduğumuz sosyal etkinliklere ve ilgili belgelere aşağıdaki listeden ulaşabilirsiniz.
 
-- [2013-04-05] ** OYGL 2013, "Play 2 ve ReactiveMongo" Atölyesi**
+- [2013-04-06] **OYGL 2013, "Play 2 ve ReactiveMongo" Atölyesi**
 
   Seminerde Mehmet Ali Gözaydın ([@kubudik](https://twitter.com/kubudik)) sahnedeki isimdi. Kalabalıkta sandelyelere dağılan (yer yer çimlere uzanan) Çağdaş Şenol ([@csenol](https://twitter.com/csenol)), Fehmi Can Sağlam ([@fehmicansaglam](https://twitter.com/fehmicansaglam)) ve Volkan Yazıcı ([@yazicivo](https://twitter.com/yazicivo)) tribünlerde amigoluk yaparak tazahüratta bulundu.
 
-- [2013-04-05] ** OYGL 2013, "Neden Scala?" Semineri**
+- [2013-04-06] **OYGL 2013, "Neden Scala?" Semineri**
 
   Seminer Scala Türkiye ekibinden Çağdaş Şenol ([@csenol](https://twitter.com/csenol)), Fehmi Can Sağlam ([@fehmicansaglam](https://twitter.com/fehmicansaglam)), Mehmet Ali Gözaydın ([@kubudik](https://twitter.com/kubudik)) ve Volkan Yazıcı ([@yazicivo](https://twitter.com/yazicivo)) ile gerçekleştirildi. Seminerde _Neden Scala?_ sorusuna cevap aranırken, Nokta'dan Erdem Ağaoğlu ([@agaoglu](https://twitter.com/agaoglu)) ve İletken/SocialWire/VNGRS co-founder'larından Deniz Oktar ([@denizoktar](https://twitter.com/denizoktar)) Scala kullanan firmalar olarak sunum yaptılar.
 
