@@ -34,6 +34,12 @@ Gerçekleştirmiş olduğumuz sosyal etkinliklere ve ilgili belgelere aşağıda
 
   Sunum Çağdaş Şenol tarafından [İstanbul HackerSpace](http://istanbulhs.org/)'te gerçekleştirildi. Sunumda Çağdaş'ın hazırladığı [alıştırmalar (koans)](https://github.com/csenol/csenol-koans) üzerinden giriş seviyesinde Scala anlatıldı. Çağdaş'ın Scala Temelleri başlıklı Bilgi Üniversitesinde gerçekleştirmiş olduğu sunumlara [buradan](http://video.cs.bilgi.edu.tr/filter/speaker/%C3%87a%C4%9Fda%C5%9F%20%C5%9Eenol) ulaşabilirsiniz.
 
+## Görseller
+
+Gruba ait görsellere aşağıdaki bağlantılardan ulaşabilirsiniz.
+
+- [2013-04-05] [OYGL 2013 Katılımı](https://scala-turkiye.github.io/scala-tr/20130405-oygl/index.html)
+
 ## Telif Hakkı
 
 Bu proje ve beraberinde dağıtılan belgeler [Creative Commons Alıntı-LisansıDevamEttirme 3.0 Unported Lisansı](http://creativecommons.org/licenses/by-sa/3.0/deed.tr) ile korunmaktadır. Kullanıcılardan gelecek katkılar da bu lisans altında yayınlanacaktır.
