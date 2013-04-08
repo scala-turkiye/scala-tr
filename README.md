@@ -38,7 +38,7 @@ Gerçekleştirmiş olduğumuz sosyal etkinliklere ve ilgili belgelere aşağıda
 
 Gruba ait görsellere aşağıdaki bağlantılardan ulaşabilirsiniz.
 
-- [2013-04-05] [OYGL 2013 Katılımı](https://scala-turkiye.github.io/scala-tr/20130405-oygl/index.html)
+- [2013-04-05] [OYGL 2013 Katılımı](http://scala-turkiye.github.io/scala-tr/20130405-oygl/index.html)
 
 ## Telif Hakkı
 
