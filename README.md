@@ -1,4 +1,4 @@
-![Scala Türkiye](https://raw.github.com/vy/scala-tr/master/img/scala-turkiye.png)
+![Scala Türkiye](https://raw.github.com/scala-turkiye/scala-tr/master/img/scala-turkiye.png)
 
 Herkese merhaba! `scala-tr` projesi altında **Türkiye Scala Kullanıcıları Grubu** olarak yaptığımız etkinliklerin belgelerine ve bağlantılarına ulaşabilirsiniz. Grup ve proje herkese açık olup, siz de GitHub hesabınızla projenin bir kopyasını oluşturup değişikliklerinizi yollayabilirsiniz. (Bunun nasıl yapılacağı ile ilgili ayrıntılara [Forking a Repo](https://help.github.com/articles/fork-a-repo) ve [Using Pull Requests](https://help.github.com/articles/using-pull-requests) yardım sayfalarından ulaşabilirsiniz.)
 
